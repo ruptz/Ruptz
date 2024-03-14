@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>
+  Ruptz
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-<!--
-**ruptz/Ruptz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Rup-Scripts](https://discord.gg/FPb9dqUGd9) | ![discord](https://img.shields.io/discord/1105050841846661270?style=flat&logo=discord&logoColor=white)
 
-Here are some ideas to get you started:
+# About Me
+- 🔭 I’m currently working on FiveM Development for servers
+- 📫 How to reach me: Via [Discord](https://discord.gg/FPb9dqUGd9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonkeyWhisper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyWhisper&show_icons=true&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=ruptz)
