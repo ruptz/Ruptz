@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on FiveM Development for servers
 - 📫 How to reach me: Via [Discord](https://discord.gg/FPb9dqUGd9)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MonkeyWhisper&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ruptz&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonkeyWhisper&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruptz&show_icons=true&theme=tokyonight)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ruptz)
