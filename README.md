@@ -1,8 +1,3 @@
-<h1>
-  Ruptz
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 # [Rup-Scripts](https://discord.gg/FPb9dqUGd9) | ![discord](https://img.shields.io/discord/1105050841846661270?style=flat&logo=discord&logoColor=white)
 
 # About Me
